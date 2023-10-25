@@ -15,7 +15,8 @@ Lesson goals:
 	- Mobile-first design 
 	- Flexbox 
 	- Media queries
-
+	- Bla bla bla bla bla
+	
 ## git setup commands 
 
 1. Make a repo on Github's website 
